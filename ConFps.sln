@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConFps", "ConFps\ConFps.vcxproj", "{6562EB8D-B8A6-42BB-9A05-57D567800752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Debug|x64.ActiveCfg = Debug|x64
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Debug|x64.Build.0 = Debug|x64
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Debug|x86.ActiveCfg = Debug|Win32
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Debug|x86.Build.0 = Debug|Win32
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Release|x64.ActiveCfg = Release|x64
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Release|x64.Build.0 = Release|x64
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Release|x86.ActiveCfg = Release|Win32
+		{6562EB8D-B8A6-42BB-9A05-57D567800752}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52FA6D8B-F4D4-403C-9091-34CA84584C3E}
+	EndGlobalSection
+EndGlobal

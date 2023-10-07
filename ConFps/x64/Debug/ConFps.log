@@ -1,0 +1,4 @@
+﻿  ConFps.cpp
+D:\Visual Studio Projects\ConFps\ConFps\ConFps.cpp(159,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Visual Studio Projects\ConFps\ConFps\ConFps.cpp(168,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open D:\Visual Studio Projects\ConFps\x64\Debug\ConFps.exe for writing
